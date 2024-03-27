@@ -1,0 +1,1 @@
+$(PVRSRV_MODNAME)-y += services/system/$(PVR_SYSTEM)/sg2380_sysconfig.o
